@@ -1,0 +1,21 @@
+print(type("22"))
+print(type(22.3))
+print(type(0))
+print(type(True))
+print(type(False))
+print(type(str(22)))
+int()
+float()
+bool()
+input("informe seu nome")
+print(bool("sim"))
+#nome_do_aluno = input("informe seu nome:")
+#print(type(int(nome)))
+print(3%2)
+print(10+23)
+x=4
+y=4.
+print(y==x)
+x = int(input("informe o primeiro número"))
+y = int(input("informe o segundo número:"))
+if y != 0:
